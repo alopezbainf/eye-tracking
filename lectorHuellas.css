@@ -1,0 +1,19 @@
+/* Estilo para el título */
+h1 {
+    background-color: yellow; 
+    color: #FFF; 
+    padding: 10px; 
+}
+
+head {
+    background-color: yellow; 
+    color: #FFF; 
+    padding: 10px; 
+}
+
+/* Estilo para el fondo del resto de la página */
+body {
+    background-color: gray; 
+    margin: 0; 
+    padding: 0; 
+}
